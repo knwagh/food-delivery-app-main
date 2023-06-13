@@ -41,7 +41,7 @@ const Cart = () => {
 
               <div className="mt-4">
                 <h6>
-                  Subtotal: $
+                  Subtotal: ₹
                   <span className="cart__subtotal">{totalAmount}</span>
                 </h6>
                 <div className="cart__page-btn">
